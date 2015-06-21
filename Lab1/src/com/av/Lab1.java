@@ -10,6 +10,7 @@ public class Lab1 {
 		System.out.println("m1--First");
 		System.out.println("m1--second");
 		System.out.println("m1--third");
+		System.out.println("m1--fourth");
 		
 		
 	}
